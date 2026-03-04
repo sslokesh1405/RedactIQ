@@ -30,7 +30,7 @@ RedactIQ is an AI-based document redaction system that automatically detects and
 
 Clone the repository:
 
-git clone https://github.com/your-username/RedactIQ.git
+git clone https://github.com/sslokesh1405/RedactIQ.git
 
 Navigate to the project folder:
 
