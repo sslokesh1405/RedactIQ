@@ -1,8 +1,5 @@
 # redactIQ
-The project introduces a sensitive information redaction system called RedactIQ. This system processes documents in multiple formats, extracts text content, identifies sensitive entities using machine learning models, applies pattern-based detection for structured data, and generates redacted documents with optional digital signatures.
-# RedactIQ
-
-RedactIQ is an AI-based document redaction system that automatically detects and removes sensitive information from documents. The system helps prevent accidental or malicious data leakage by sanitizing documents before they are shared.
+The project introduces a sensitive information redaction system called RedactIQ. This system processes documents in multiple formats, extracts text content, identifies sensitive entities using machine learning models, applies pattern-based detection for structured data, and generates redacted documents with optional digital signatures.RedactIQ is an AI-based document redaction system that automatically detects and removes sensitive information from documents. The system helps prevent accidental or malicious data leakage by sanitizing documents before they are shared.
 
 ## Features
 
